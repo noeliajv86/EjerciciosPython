@@ -1,5 +1,5 @@
 print("Hola Mundo")
-print(5 + 3)
+print(2 + 4)
 nombre = "Juan"
 edad = 25
 print("Hola", nombre, "tienes", edad, "años")
