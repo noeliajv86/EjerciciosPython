@@ -1,7 +1,7 @@
-nombre = "Noe"
+nombre = "Noelia"
 contraseña = "NoeJV86+"
-edad = 39
-mi_número = 39.11 
+edad = 40
+mi_número = 39.22 
 
 print("Hola", nombre, "¿Cómo te va?")
 print("Un gusto conocerte", nombre, "tenés", edad, "años")

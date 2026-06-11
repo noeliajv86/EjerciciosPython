@@ -16,8 +16,8 @@ print(tipo_edad)
 #                        Exponente 
 #                        División Entera
 
-número1 = 34
-número2 = 13
+número1 = 39
+número2 = 10
 
 print("Suma", número1 + número2)
 print("Resta", número1 - número2)

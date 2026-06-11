@@ -17,7 +17,7 @@ print("Mi número favorito es:", numero)
 mi_nombre="Noelia"
 print("Me llamo",mi_nombre)
 # Crear variables
-nombre = "Noelia"
+nombre = "Noe"
 edad = 39
 anio_nacimiento = 1986
 
@@ -29,7 +29,7 @@ print("Nací en el año", anio_nacimiento)
 # ¡Un cálculo simple!
 print("En 10 años tendré:", edad + 10, "años")
 # Mis datos
-mi_nombre = "Noelia"
+mi_nombre = "Noe"
 mi_edad = 39
 mi_anio_nacimiento = 1986
 
@@ -53,8 +53,8 @@ tu_edad = int(tu_edad_texto)
 futuro = tu_edad + 10
 
 print("Hola", tu_nombre, "¡en 10 años tendrás", futuro, "años!")
-print("me llamo Noelia")
-print("son las 14:39")
+print("me llamo Noe")
+print("son las 19:26")
 # Pide tu nombre
 nombre = input("¿Cómo te llamas? ")
 
