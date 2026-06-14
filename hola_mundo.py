@@ -53,8 +53,8 @@ tu_edad = int(tu_edad_texto)
 futuro = tu_edad + 10
 
 print("Hola", tu_nombre, "¡en 10 años tendrás", futuro, "años!")
-print("me llamo Noe")
-print("son las 19:26")
+print("me llamo Noelia")
+print("son las 19:37")
 # Pide tu nombre
 nombre = input("¿Cómo te llamas? ")
 
